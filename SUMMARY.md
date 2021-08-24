@@ -7,4 +7,5 @@
 * [Ứng dụng trong nông nghiệp của drones](buoi-1/ung-dung-trong-nong-nghiep-cua-drones.md)
 * [Ứng dụng của drones trong quân sự](buoi-1/ung-dung-cua-drones-trong-quan-su.md)
 * [Ứng dụng của drones trong công nghiệp](buoi-1/ung-dung-cua-drones-trong-cong-nghiep.md)
+* [Ứng dụng của drones trong việc giải trí](buoi-1/ung-dung-cua-drones-trong-viec-giai-tri.md)
 
