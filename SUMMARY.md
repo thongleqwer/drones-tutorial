@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Mình là ai?](README.md)
 
 ## Buổi 1: Ứng dụng của drones <a id="buoi-1"></a>
 
