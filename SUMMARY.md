@@ -25,3 +25,8 @@
 * [Video Transmitter \(VTX\)](video-transmitter-vtx.md)
 * [Cảm Biến \(Sensors\)](cam-bien-sensors.md)
 
+## Buổi 3: Nguyên Lý Hoạt Động Của Drone
+
+* [Drone chuyển động như thế nào](buoi-3-nguyen-ly-hoat-dong-cua-drone/drone-chuyen-dong-nhu-the-nao.md)
+* [Nguyên Lý Bay](buoi-3-nguyen-ly-hoat-dong-cua-drone/nguyen-ly-bay.md)
+
