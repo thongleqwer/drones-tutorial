@@ -20,5 +20,8 @@
 * [Power Distribution Board \(PDB\)](power-distribution-board-pdb.md)
 * [Flight Controller](flight-controller.md)
 * [Nguồn cung cấp năng lượng \(Pin\)](nguon-cung-cap-nang-luong-pin.md)
-* [Untitled](untitled.md)
+* [Receiver](untitled.md)
+* [Camera](camera.md)
+* [Video Transmitter \(VTX\)](video-transmitter-vtx.md)
+* [Cảm Biến \(Sensors\)](cam-bien-sensors.md)
 
