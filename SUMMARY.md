@@ -9,10 +9,16 @@
 * [Ứng dụng của drones trong công nghiệp](buoi-1/ung-dung-cua-drones-trong-cong-nghiep.md)
 * [Ứng dụng của drones trong việc giải trí](buoi-1/ung-dung-cua-drones-trong-viec-giai-tri.md)
 
+## Buổi 2: Cấu tạo của drone
+
 ---
 
-* [Buổi 2: Cấu tao của drone](buoi-2.md)
 * [Bộ Khung \(Frame\)](a.md)
 * [Động cơ \(Motor\)](dong-co-motor.md)
 * [Cánh Quạt \(Propeller\)](canh-quat-propeller.md)
+* [Electric Motor Controller \(ESC\)](electric-motor-controller-esc.md)
+* [Power Distribution Board \(PDB\)](power-distribution-board-pdb.md)
+* [Flight Controller](flight-controller.md)
+* [Nguồn cung cấp năng lượng \(Pin\)](nguon-cung-cap-nang-luong-pin.md)
+* [Untitled](untitled.md)
 
