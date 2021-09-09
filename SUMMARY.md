@@ -9,3 +9,10 @@
 * [Ứng dụng của drones trong công nghiệp](buoi-1/ung-dung-cua-drones-trong-cong-nghiep.md)
 * [Ứng dụng của drones trong việc giải trí](buoi-1/ung-dung-cua-drones-trong-viec-giai-tri.md)
 
+---
+
+* [Buổi 2: Cấu tao của drone](buoi-2.md)
+* [Bộ Khung \(Frame\)](a.md)
+* [Động cơ \(Motor\)](dong-co-motor.md)
+* [Cánh Quạt \(Propeller\)](canh-quat-propeller.md)
+
