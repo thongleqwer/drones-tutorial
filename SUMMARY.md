@@ -30,3 +30,9 @@
 * [Drone chuyển động như thế nào](buoi-3-nguyen-ly-hoat-dong-cua-drone/drone-chuyen-dong-nhu-the-nao.md)
 * [Nguyên Lý Bay](buoi-3-nguyen-ly-hoat-dong-cua-drone/nguyen-ly-bay.md)
 
+## Buổi 4: Hướng Dẫn Điều Khiển Drone
+
+* [Bộ điều khiển](buoi-4-huong-dan-dieu-khien-drone/bo-dieu-khien.md)
+* [Các bước an toàn khi bay drone](buoi-4-huong-dan-dieu-khien-drone/cac-buoc-an-toan-khi-bay-drone.md)
+* [Các nguyên tắc an toàn khi bay](buoi-4-huong-dan-dieu-khien-drone/cac-nguyen-tac-an-toan-khi-bay.md)
+
