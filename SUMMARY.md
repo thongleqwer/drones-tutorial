@@ -35,4 +35,5 @@
 * [Bộ điều khiển](buoi-4-huong-dan-dieu-khien-drone/bo-dieu-khien.md)
 * [Các bước an toàn khi bay drone](buoi-4-huong-dan-dieu-khien-drone/cac-buoc-an-toan-khi-bay-drone.md)
 * [Các nguyên tắc an toàn khi bay](buoi-4-huong-dan-dieu-khien-drone/cac-nguyen-tac-an-toan-khi-bay.md)
+* [Các bài tập bay drone với độ khó tăng dần](buoi-4-huong-dan-dieu-khien-drone/cac-bai-tap-bay-drone-voi-do-kho-tang-dan.md)
 
